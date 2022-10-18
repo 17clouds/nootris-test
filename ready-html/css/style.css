@@ -47,7 +47,7 @@ ul {
 .first_section {
   height: 984px;
   overflow: hidden;
-  background-image: url("/ready-html/img/bg_2.png");
+  background-image: url("../img/bg_2.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
